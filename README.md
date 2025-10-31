@@ -88,12 +88,3 @@ By completing this workshop, students will be able to:
 1. **Stability vs. Adaptability:** Round 1 favored exploitation in a stable environment, while Round 2 required flexibility.  
 2. **Exploration’s Hidden Value:** A fixed ε may fail when the world changes — adaptive exploration is key.  
 3. **Integration Update:** The final code automatically generates both CSVs and uses them for direct result comparison and visualization.
-
----
-
-## 🧾 License
-For educational use in academic and workshop settings.  
-Developed as part of **CSCN8020 – Machine Learning Projects**,  
-with assistance from **OpenAI’s GPT-5** for educational tool enhancement.
-
----

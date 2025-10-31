@@ -1,0 +1,12 @@
+# Core scientific libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+
+# Jupyter & display utilities
+ipython==8.27.0
+notebook==7.2.2
+
+# Optional (if using tqdm progress bars or exporting notebooks)
+tqdm==4.66.5
+nbconvert==7.16.4

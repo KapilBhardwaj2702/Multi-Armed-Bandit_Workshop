@@ -1,0 +1,37 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env*/
+.venv*/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output data and generated results
+*.csv
+*.log
+*.tmp
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific
+*.swp
+*.swo
+
+# Backup files
+*~
