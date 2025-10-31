@@ -67,7 +67,7 @@ By completing this workshop, students will be able to:
 
 | File | Description |
 |:------|:-------------|
-| `Casino_Challenge_MAB_Workshop.ipynb` | Main notebook with both rounds, code, and reflection cells. |
+| `Muli-Armed Bandit_Workshop.ipynb` | Main notebook with both rounds, code, and reflection cells. |
 | `README.md` | Workshop summary and documentation. |
 | `casino_round1_results.csv` | Output CSV for Round 1 (stationary environment). |
 | `casino_round2_results.csv` | Output CSV for Round 2 (non-stationary environment). |
