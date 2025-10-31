@@ -71,7 +71,8 @@ By completing this workshop, students will be able to:
 | `README.md` | Workshop summary and documentation. |
 | `casino_round1_results.csv` | Output CSV for Round 1 (stationary environment). |
 | `casino_round2_results.csv` | Output CSV for Round 2 (non-stationary environment). |
-
+| `.gitignore` | .gitignore file |
+| `requirements.txt` | requirements.txt file |
 ---
 
 ## 🧭 Instructor Tips
